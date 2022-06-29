@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Danny-awesome
-- 👀 I’m interested in python and website analytics
-- 🌱 I’m currently learning python and website analytics
-- 💞️ I’m looking to collaborate on python web applications
+- 👀 iCode python. 
+- 🌱 I’m currently on the cloud computing path
 - 📫 How to reach me dmmachuwku@gmail.com
 
 <!---
