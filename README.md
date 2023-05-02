@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Danny-awesome
-- 👀 iCode python. 
+- 👀 iCode c# and dotnetCore. 
 - 🌱 I’m currently on the cloud computing path
 - 📫 How to reach me dmmachuwku@gmail.com
 
