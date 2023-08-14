@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danny-awesome
+- 👋 Hi, I’m @DarthPhantom
 - 👀 iCode c# and dotnetCore. 
 - 📫 How to reach me dmmachuwku@gmail.com
 
